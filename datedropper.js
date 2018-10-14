@@ -817,6 +817,60 @@
 					]
 				}
 			},
+			'sk' : {
+                		name : 'Slovenčina',
+                		gregorian : true,
+                		months : {
+                    			short: [
+                        			"jan",
+                        			"feb",
+                        			"mar",
+                        			"apr",
+                        			"máj",
+                        			"jún",
+                        			"júl",
+						"aug",
+						"sep",
+                        			"okt",
+                        			"nov",
+                        			"dec"
+                    			],
+                    			full : [
+						"január",
+                        			"február",
+                        			"marec",
+                        			"apríl",
+                        			"máj",
+                        			"jún",
+                        			"júl",
+                        			"august",
+                        			"september",
+                        			"október",
+                        			"november",
+                        			"december"
+                    			]
+                		},
+				weekdays : {
+					short : [
+						'n',
+						'p',
+						'u',
+						's',
+						'š',
+						'p',
+						's'
+				 	],
+				    	full : [
+						'nedeľa',
+						'pondelok',
+						'utorok',
+						'streda',
+						'štvrtok',
+						'piatok',
+						'sobota'
+				    	]
+				  }
+           		 },
 			'si' : {
 				name : 'Slovenščina',
 				gregorian : true,
